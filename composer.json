@@ -1,0 +1,16 @@
+{
+    "name": "lighp/lib-arraysearcher",
+    "description": "A library to search through arrays.",
+    "license": "GPLv3",
+    "version": "0.1",
+    "type":"lighp-module",
+    "authors": [
+        {
+            "name": "emersion",
+            "email": "contact@emersion.fr"
+        }
+    ],
+    "require": {
+        "lighp/composer-lighp-installers": "dev-master"
+    }
+}
